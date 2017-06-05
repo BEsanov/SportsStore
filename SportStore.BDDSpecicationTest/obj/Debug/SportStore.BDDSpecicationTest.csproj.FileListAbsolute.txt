@@ -1,0 +1,13 @@
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\SportStore.BDDSpecicationTest\bin\Debug\Default.srprofile
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\SportStore.BDDSpecicationTest\bin\Debug\SportStore.BDDSpecicationTest.dll.config
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\SportStore.BDDSpecicationTest\bin\Debug\SportStore.BDDSpecicationTest.dll
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\SportStore.BDDSpecicationTest\bin\Debug\SportStore.BDDSpecicationTest.pdb
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\SportStore.BDDSpecicationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\SportStore.BDDSpecicationTest\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\SportStore.BDDSpecicationTest\bin\Debug\SportsStore.Entities.dll
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\SportStore.BDDSpecicationTest\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\SportStore.BDDSpecicationTest\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\SportStore.BDDSpecicationTest\bin\Debug\SportsStore.Entities.pdb
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\SportStore.BDDSpecicationTest\obj\Debug\SportStore.BDDSpecicationTest.csprojResolveAssemblyReference.cache
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\SportStore.BDDSpecicationTest\obj\Debug\SportStore.BDDSpecicationTest.dll
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\SportStore.BDDSpecicationTest\obj\Debug\SportStore.BDDSpecicationTest.pdb

@@ -1,0 +1,13 @@
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\StoreSpecs\bin\Debug\Default.srprofile
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\StoreSpecs\bin\Debug\StoreSpecs.dll.config
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\StoreSpecs\bin\Debug\StoreSpecs.dll
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\StoreSpecs\bin\Debug\StoreSpecs.pdb
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\StoreSpecs\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\StoreSpecs\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\StoreSpecs\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\StoreSpecs\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\StoreSpecs\obj\Debug\StoreSpecs.csprojResolveAssemblyReference.cache
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\StoreSpecs\obj\Debug\StoreSpecs.dll
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\StoreSpecs\obj\Debug\StoreSpecs.pdb
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\StoreSpecs\bin\Debug\Example.dll
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\StoreSpecs\bin\Debug\Example.pdb

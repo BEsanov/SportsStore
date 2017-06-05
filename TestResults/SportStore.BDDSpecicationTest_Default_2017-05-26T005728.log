@@ -1,0 +1,45 @@
+﻿VS filter: testpath:TestAssembly:SportStore.BDDSpecicationTest/Feature:ShoppingCart/Scenario:Calculating+Products+total+values
+Discovering target: Default
+Discovering tests from assembly: C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\SportStore.BDDSpecicationTest\bin\Debug\SportStore.BDDSpecicationTest.dll
+Appdomain Disposed
+Test Suite Dump
+#0: SportStore.BDDSpecicationTest/Default - 
+#1: Default - 
+#2: SportStore.BDDSpecicationTest - 
+#3: ShoppingCart - 
+#4: Calculating Products total values - TestAssembly:SportStore.BDDSpecicationTest/Feature:ShoppingCart/Scenario:Calculating+Products+total+values
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread
+Thread#0:Scheduler: using testitem #4 for thread
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for SportStore.BDDSpecicationTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\bakhtiyor.esanov\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.5.2\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:B:Given I have added  120 euro 3 hard disks into Shopping Cart
+Thread#0:T:done: ShoppingCartSteps.GivenIHaveAddedEuroHardDisksIntoShoppingCart(120, 3) (0.0s)
+Thread#0:B:And I have also added  30 euro 1 wireless keyboard into the Shopping Cart
+Thread#0:T:done: ShoppingCartSteps.GivenIHaveAlsoAddedEuroWirelessKeyboardIntoTheShoppingCart(30, 1) (0.0s)
+Thread#0:B:And I have finally added  10 euro 2 headsets into the Shopping Cart
+Thread#0:T:done: ShoppingCartSteps.GivenIHaveFinallyAddedEuroHeadsetsIntoTheShoppingCart(10, 2) (0.0s)
+Thread#0:B:When I press Proceed To Checkout
+Thread#0:T:done: ShoppingCartSteps.WhenIPressProceedToCheckout() (0.0s)
+Thread#0:B:Then the Total value should be 410 euro on the my shopping summary
+Thread#0:T:done: ShoppingCartSteps.ThenTheTotalValueShouldBeEuroOnTheMyShoppingSummary(410) (0.0s)
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread 
+Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 0.4481678 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1
+Succeeded: 1
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0

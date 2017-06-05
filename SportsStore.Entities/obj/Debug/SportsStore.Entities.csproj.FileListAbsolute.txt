@@ -1,0 +1,5 @@
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\SportsStore.Entities\bin\Debug\SportsStore.Entities.dll
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\SportsStore.Entities\bin\Debug\SportsStore.Entities.pdb
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\SportsStore.Entities\obj\Debug\SportsStore.Entities.csprojResolveAssemblyReference.cache
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\SportsStore.Entities\obj\Debug\SportsStore.Entities.dll
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\SportsStore.Entities\obj\Debug\SportsStore.Entities.pdb

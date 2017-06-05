@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.WebUI", "SportsStore.WebUI\SportsStore.WebUI.csproj", "{5620A400-2811-4719-BFC5-49E884967027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.Domain", "SportsStore.Domain\SportsStore.Domain.csproj", "{DE93E48E-F76B-438A-AF47-89D2CFAB5724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.UnitTests", "SportsStore.UnitTests\SportsStore.UnitTests.csproj", "{D18160AA-7849-478B-88E1-8718E5486182}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportStore.BDDSpecicationTest", "SportStore.BDDSpecicationTest\SportStore.BDDSpecicationTest.csproj", "{9BAF3F2F-8938-40BA-B8C3-15E875DD2D49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.Entities", "SportsStore.Entities\SportsStore.Entities.csproj", "{4731A9F6-96CC-419D-93DD-30BD301FF172}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5620A400-2811-4719-BFC5-49E884967027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5620A400-2811-4719-BFC5-49E884967027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5620A400-2811-4719-BFC5-49E884967027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5620A400-2811-4719-BFC5-49E884967027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE93E48E-F76B-438A-AF47-89D2CFAB5724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE93E48E-F76B-438A-AF47-89D2CFAB5724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE93E48E-F76B-438A-AF47-89D2CFAB5724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE93E48E-F76B-438A-AF47-89D2CFAB5724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D18160AA-7849-478B-88E1-8718E5486182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D18160AA-7849-478B-88E1-8718E5486182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D18160AA-7849-478B-88E1-8718E5486182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D18160AA-7849-478B-88E1-8718E5486182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BAF3F2F-8938-40BA-B8C3-15E875DD2D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAF3F2F-8938-40BA-B8C3-15E875DD2D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAF3F2F-8938-40BA-B8C3-15E875DD2D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAF3F2F-8938-40BA-B8C3-15E875DD2D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4731A9F6-96CC-419D-93DD-30BD301FF172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4731A9F6-96CC-419D-93DD-30BD301FF172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4731A9F6-96CC-419D-93DD-30BD301FF172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4731A9F6-96CC-419D-93DD-30BD301FF172}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://bahtiyoresanov.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SportsStore.Domain\\SportsStore.Domain.csproj
+		SccProjectName1 = SportsStore.Domain
+		SccLocalPath1 = SportsStore.Domain
+		SccProjectUniqueName2 = SportsStore.Entities\\SportsStore.Entities.csproj
+		SccProjectName2 = SportsStore.Entities
+		SccLocalPath2 = SportsStore.Entities
+		SccProjectUniqueName3 = SportsStore.UnitTests\\SportsStore.UnitTests.csproj
+		SccProjectName3 = SportsStore.UnitTests
+		SccLocalPath3 = SportsStore.UnitTests
+		SccProjectUniqueName4 = SportsStore.WebUI\\SportsStore.WebUI.csproj
+		SccProjectName4 = SportsStore.WebUI
+		SccLocalPath4 = SportsStore.WebUI
+		SccProjectUniqueName5 = SportStore.BDDSpecicationTest\\SportStore.BDDSpecicationTest.csproj
+		SccProjectName5 = SportStore.BDDSpecicationTest
+		SccLocalPath5 = SportStore.BDDSpecicationTest
+	EndGlobalSection
+EndGlobal

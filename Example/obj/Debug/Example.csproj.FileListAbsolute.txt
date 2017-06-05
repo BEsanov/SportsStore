@@ -1,0 +1,5 @@
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\Example\bin\Debug\Example.dll
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\Example\bin\Debug\Example.pdb
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\Example\obj\Debug\Example.dll
+C:\Users\bakhtiyor.esanov\Desktop\pro-asp.net-mvc-5-master\Chapter 13\SportsStore\Example\obj\Debug\Example.pdb
